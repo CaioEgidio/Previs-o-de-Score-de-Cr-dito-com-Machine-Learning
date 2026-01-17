@@ -134,13 +134,6 @@ Comparação de Resultados
 
 ---
 
-## 🧑‍💻 Autor
-
-Desenvolvido por **Caio Marques**
-🎯 Ciência da Computação | Machine Learning | Backend | APIs | Data-Driven Systems
-
----
-
 ## ⭐ Considerações Finais
 
 Este projeto representa minha introdução prática à aplicação de **Machine Learning em problemas reais de negócio**, com foco em análise de crédito e tomada de decisão automatizada. Ele serve como base para evoluir a solução para um ambiente de produção com API, banco de dados e monitoramento de modelos.
